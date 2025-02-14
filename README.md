@@ -23,6 +23,7 @@ To install OpenCV, use Python's package manager, pip:
 
 ```bash
 pip install opencv-python
+```
 
 
 # Basic Usage
